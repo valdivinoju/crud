@@ -2,7 +2,8 @@ Olá este projeto será o resultado dos estudos na área de pyton aonde vou comp
 Para ajudar quem chegou aqui para aprender, todos os arquivos estarão comentados e caso ainda tenha dúvidas deixarei aqui os links das aulas que utilizei para aprender cada conteúdo.
 O primeiro arquivo será o CRUD que programei em python e conectei ao mysql para fazer os testes é importante que você tenha o mysq e python instalados em seu computador e uma IDE de sua preferência no meu caso eu estou utilizando o pycharm e o vscode.
 Para subir meus estudos para o github eu precisei instalar o git na minha máquina e aprendi a como usar através da aula que vou deixar a seguir.
-Novo commit: adicionei funções e parametros if para facilitar.
+Commit 2: adicionei funções e parametros if no menu para facilitar a escolha do usuario.
+Commit 3: adicionei um luping witle para meu programa rodar até que o usuario decida fechar, adiciunei um for dentro da função read para usuario colocar o nime e a quantidade de produto que quer adicionar.
 link das aulas:
 Como usar o git e github pt1 https://www.youtube.com/watch?v=DqTITcMq68k&t=2s&ab_channel=RafaellaBallerini 
 Como usar o git e github pt2 https://www.youtube.com/watch?v=UBAX-13g8OM&t=1855s&ab_channel=RafaellaBallerini
